@@ -1,4 +1,4 @@
-FROM python:3.10-slim
+FROM python:3.12-slim
 
 # --- System dependencies required by Manim + ffmpeg for video rendering ---
 # (pango/cairo are needed to build manimpango & pycairo; ffmpeg is needed
