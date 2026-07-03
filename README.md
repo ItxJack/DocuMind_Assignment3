@@ -1,11 +1,3 @@
----
-title: DocuMind
-emoji: 🚀
-colorFrom: blue
-colorTo: purple
-sdk: docker
-app_port: 7860
----
 
 # Assignment 3 — FastAPI Text Chunking & AI Utilities
 
